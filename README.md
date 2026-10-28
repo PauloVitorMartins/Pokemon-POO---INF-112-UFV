@@ -69,7 +69,7 @@ O simulador foi arquitetado utilizando os pilares da Orientação a Objetos. Aba
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokedex.png" width="40"><br>
+      <img src="./assets/pokedex.png alt="Pokédex"> width="40"><br>
       <b>TADs</b>
     </td>
     <td>Encapsulamento pesado. Atributos como HP, Status, Tipos e Golpes são protegidos, acessados e modificados apenas através de métodos seguros.</td>
