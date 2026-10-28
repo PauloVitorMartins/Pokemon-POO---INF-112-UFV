@@ -119,5 +119,9 @@ O projeto utiliza `Make` para automatizar o processo de compilação, garantindo
 Abra o seu terminal e execute exatamente o bloco abaixo:
 
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+git clone [[https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)](https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git)
 cd NOME_DO_REPOSITORIO
+make
+./lib/.build/pokemon
+-> se precisar recompilar utilize:
+make clean
