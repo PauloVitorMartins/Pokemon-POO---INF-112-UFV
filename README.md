@@ -115,13 +115,16 @@ O simulador foi arquitetado utilizando os pilares da Orientação a Objetos. Aba
 
 O projeto utiliza `Make` para automatizar o processo de compilação, garantindo que todas as dependências e classes sejam linkadas corretamente junto à interface gráfica.
 
-### 1. Clonando o repositório
 Abra o seu terminal e execute exatamente o bloco abaixo:
 
 ```bash
-git clone [[https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)](https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git)
-cd NOME_DO_REPOSITORIO
+git clone (https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git)
+cd Pokemon-POO---INF-112-UFV/tp02
 make
 ./lib/.build/pokemon
--> se precisar recompilar utilize:
+```
+
+Se precisar recompilar use
+
+```bash
 make clean
