@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/6.png" alt="Charizard" width="100">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" alt="Pokeball" width="50" style="margin: 0 20px;">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iii/firered-leafgreen/9.png" alt="Blastoise" width="100">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" width="80">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" alt="Pokeball" width="40" style="margin: 0 30px;">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" alt="Blastoise" width="80">
 
   <h1>Simulador de Batalhas Pokémon ⚔️</h1>
   
@@ -23,7 +23,11 @@
 > **Professor:** Julio Reis  
 > **Estilo:** Pokémon FireRed / LeafGreen (GBA)
 
----
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30">
+</div>
+<br>
 
 ## 📖 Sobre o Projeto
 
@@ -31,7 +35,11 @@ Este projeto é um simulador de batalhas Pokémon focado na aplicação prática
 
 A interface gráfica do simulador foi fornecida previamente pelo professor Julio Reis. O núcleo do trabalho consistiu em projetar, implementar e integrar o *backend* do jogo (a lógica de negócios). Isso exigiu a construção de um ecossistema de classes robusto para gerenciar Pokémons, seus atributos, bibliotecas de tipos, cálculos de dano e a mecânica de golpes, fazendo com que a interface gráfica se comunicasse perfeitamente com os objetos instanciados.
 
----
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30">
+</div>
+<br>
 
 ## 🧬 Conceitos Aplicados
 
@@ -61,14 +69,18 @@ O simulador foi arquitetado utilizando os pilares da Orientação a Objetos. Aba
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pc.png" width="40"><br>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokedex.png" width="40"><br>
       <b>TADs</b>
     </td>
     <td>Encapsulamento pesado. Atributos como HP, Status, Tipos e Golpes são protegidos, acessados e modificados apenas através de métodos seguros.</td>
   </tr>
 </table>
 
----
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30">
+</div>
+<br>
 
 ## 🖼️ Demonstração Visual
 
@@ -93,14 +105,19 @@ O simulador foi arquitetado utilizando os pilares da Orientação a Objetos. Aba
   </table>
 </div>
 
----
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30">
+</div>
+<br>
 
 ## 🚀 Como Clonar, Compilar e Rodar
 
 O projeto utiliza `Make` para automatizar o processo de compilação, garantindo que todas as dependências e classes sejam linkadas corretamente junto à interface gráfica.
 
 ### 1. Clonando o repositório
-Abra o seu terminal (Bash/Fish/Zsh) e execute:
+Abra o seu terminal e execute exatamente o bloco abaixo:
+
 ```bash
 git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 cd NOME_DO_REPOSITORIO
