@@ -128,3 +128,4 @@ Se precisar recompilar use
 
 ```bash
 make clean
+make
