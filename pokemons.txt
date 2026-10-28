@@ -1,0 +1,12 @@
+0 fogo Charmander 90 22 14
+1 planta Bulbasaur 100 18 18
+2 agua Squirtle 100 17 22
+3 eletrico Pikachu 85 25 12
+4 fogo Vulpix 95 19 17
+5 planta Oddish 105 17 19
+6 agua Psyduck 95 22 16
+7 eletrico Voltorb 90 20 18
+8 fogo Ponyta 90 24 13
+9 fogo Growlithe 100 21 16
+10 planta Bellsprout 95 23 14
+11 eletrico Magnemite 90 19 23
