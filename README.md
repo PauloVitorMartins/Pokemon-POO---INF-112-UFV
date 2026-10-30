@@ -7,7 +7,7 @@
   
   <p>
     <strong>Trabalho Prático 2 (TP2) • INF 112 • UFV</strong><br>
-    <em>Disciplina de Programação Oriena a Objetos</em>
+    <em>Disciplina de Programação Orientada a Objetos</em>
   </p>
 
   <p>
@@ -31,11 +31,16 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto é um simulador de batalhas Pokémon focado na aplicação prática de **Programação Oriena a Objetos (POO)** e **Tipos Abstratos de Dados (s)**. 
+Este projeto é um simulador de batalhas Pokémon focado na aplicação prática de **Programação Orientada a Objetos (POO)** e **Tipos Abstratos de Dados (TADs)**. 
 
 A interface gráfica do simulador foi fornecida previamente pelo professor Julio Reis. O núcleo do trabalho consistiu em projetar, implementar e integrar o *backend* do jogo (a lógica de negócios). Isso exigiu a construção de um ecossistema de classes robusto para gerenciar Pokémons, seus atributos, bibliotecas de tipos, cálculos de dano e a mecânica de golpes, fazendo com que a interface gráfica se comunicasse perfeitamente com os objetos instanciados.
 
 <br>
+<div align="center">
+  <img src="https://i.makeagif.com/media/9-03-2015/Os-47w.gif" alt="Tela de Início Pokémon FireRed" width="400" style="border-radius: 8px;">
+</div>
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png" width="30">
 </div>
@@ -43,7 +48,7 @@ A interface gráfica do simulador foi fornecida previamente pelo professor Julio
 
 ## 🧬 Conceitos Aplicados
 
-O simulador foi arquiteo utilizando os pilares da Orientação a Objetos. Abaixo estão as mecânicas implemenas no código:
+O simulador foi arquitetado utilizando os pilares da Orientação a Objetos. Abaixo estão as mecânicas implementadas no código:
 
 <table>
   <tr>
@@ -62,14 +67,14 @@ O simulador foi arquiteo utilizando os pilares da Orientação a Objetos. Abaixo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/items/gen3/town-map.png" width="40"><br>
+      <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/items/gen3/town-map.png?raw=true" width="40"><br>
       <b>Interfaces</b>
     </td>
     <td>Contratos bem definidos estabelecendo como a interface gráfica do professor deve acessar os dados das bibliotecas e dos objetos no backend.</td>
   </tr>
   <tr>
     <td align="center">
-      <img src=https://github.com/PokeAPI/sprites/blob/master/sprites/items/discount-coupon.png><br>
+      <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/items/discount-coupon.png?raw=true"><br>
       <b>TADs</b>
     </td>
     <td>Encapsulamento pesado. Atributos como HP, Status, Tipos e Golpes são protegidos, acessados e modificados apenas através de métodos seguros.</td>
@@ -118,14 +123,7 @@ O projeto utiliza `Make` para automatizar o processo de compilação, garantindo
 Abra o seu terminal e execute exatamente o bloco abaixo:
 
 ```bash
-git clone (https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git)
+git clone [https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git](https://github.com/PauloVitorMartins/Pokemon-POO---INF-112-UFV.git)
 cd Pokemon-POO---INF-112-UFV/tp02
 make
 ./lib/.build/pokemon
-```
-
-Se precisar recompilar use
-
-```bash
-make clean
-make
