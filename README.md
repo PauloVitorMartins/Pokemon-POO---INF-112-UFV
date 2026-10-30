@@ -69,8 +69,8 @@ O simulador foi arquiteo utilizando os pilares da Orientação a Objetos. Abaixo
   </tr>
   <tr>
     <td align="center">
-      <img src=https://github.com/PokeAPI/sprites/blob/master/sprites/badges/1.png width="40"><br>
-      <b>s</b>
+      <img src=https://github.com/PokeAPI/sprites/blob/master/sprites/items/discount-coupon.png><br>
+      <b>TADs</b>
     </td>
     <td>Encapsulamento pesado. Atributos como HP, Status, Tipos e Golpes são protegidos, acessados e modificados apenas através de métodos seguros.</td>
   </tr>
