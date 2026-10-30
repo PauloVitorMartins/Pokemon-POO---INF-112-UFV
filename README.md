@@ -62,7 +62,7 @@ O simulador foi arquiteo utilizando os pilares da Orientação a Objetos. Abaixo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokedex.png" width="40"><br>
+      <img src="https://github.com/PokeAPI/sprites/blob/master/sprites/items/gen3/town-map.png" width="40"><br>
       <b>Interfaces</b>
     </td>
     <td>Contratos bem definidos estabelecendo como a interface gráfica do professor deve acessar os dados das bibliotecas e dos objetos no backend.</td>
